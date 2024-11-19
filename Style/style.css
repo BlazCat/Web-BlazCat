@@ -1,4 +1,10 @@
-.title-web>h2{
+.title-web>h1{
     text-align: center;
+    font-style: normal;
+    color: brown;
 }
 
+.Utilities{
+    text-align: right;
+    color: white;
+}
